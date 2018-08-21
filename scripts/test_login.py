@@ -23,3 +23,6 @@ class TestLogin:
         self.login_page.click_login()
 
         assert 1
+
+    def test_login3(self):
+        assert 0
